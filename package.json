@@ -1,0 +1,19 @@
+{
+  "name": "fortest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rvshah23/ForTest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rvshah23/ForTest/issues"
+  },
+  "homepage": "https://github.com/rvshah23/ForTest#readme"
+}
